@@ -1,3 +1,8 @@
 # git-github
 
-Kevin Paul Alvarado Trapero
+Owner: Kevin Paul Alvarado Trapero
+
+
+Collaborators:
+
+Efni De Jesus FL @Efni01
